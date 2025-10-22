@@ -7,5 +7,3 @@ This is a another line in the md file.
 This is second commit text
 
 From a new branch
-
-Not tracking changes
